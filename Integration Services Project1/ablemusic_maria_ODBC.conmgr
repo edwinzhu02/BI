@@ -1,0 +1,10 @@
+﻿<?xml version="1.0"?>
+<DTS:ConnectionManager xmlns:DTS="www.microsoft.com/SqlServer/Dts"
+  DTS:ObjectName="ablemusic_maria_ODBC"
+  DTS:DTSID="{C759B8EA-65F6-45D1-9D67-9F50242116C5}"
+  DTS:CreationName="ODBC">
+  <DTS:ObjectData>
+    <DTS:ConnectionManager
+      DTS:ConnectionString="Dsn=ablemusic_maria_ODBC;" />
+  </DTS:ObjectData>
+</DTS:ConnectionManager>
